@@ -1,2 +1,2 @@
 # vp-link
-Control your video-projector using PJLINK protocol
+Control your video-projector using PJ-LINK protocol
